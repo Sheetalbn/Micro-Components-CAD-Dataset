@@ -1,10 +1,12 @@
 # Washers and Shims
 
-Washers spread clamp load; shims set or adjust small clearances and alignment.
+## Dataset
 
-## Models included
+- **Source:** [Innerscene washers](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=washers)
+- **Models listed:** 19 washers
+- Models can be opened and downloaded one at a time. Check a model’s page for its size and available file types.
+- This collection has washers. It does not have a separate collection for shims.
 
-No STEP models are included. Washer and shim models are withheld until redistribution rights can be verified.
+## Where they are used
 
-There are currently no CAD files in this category. No catalogue pages or external download links are presented as CAD assets. Add only original models or files whose licence explicitly permits redistribution, with attribution and licence terms documented alongside each file.
-
+A washer is placed under a screw or nut. It spreads the pressure over a wider area and helps protect the surface. A shim is a thin piece placed between two parts to adjust the gap or help line them up. Washers and shims are used in machines, tools, equipment, and assemblies.

@@ -1,10 +1,11 @@
 # Miniature Bearings
 
-Miniature bearings support rotating shafts while reducing friction in small mechanisms.
+## Dataset
 
-## Models included
+- **Source:** [Innerscene bearings](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=bearings)
+- **Models listed:** 18
+- Models can be opened and downloaded one at a time. Check a model’s page for its size and available file types.
 
-No STEP models are included. Bearing models are withheld until redistribution rights can be verified.
+## Where they are used
 
-There are currently no CAD files in this category. No catalogue pages or external download links are presented as CAD assets. Add only original models or files whose licence explicitly permits redistribution, with attribution and licence terms documented alongside each file.
-
+A bearing supports a turning shaft and helps it move smoothly. Small bearings are used in fans, small motors, gearboxes, robots, model vehicles, and instruments. The bearing must fit the shaft and the space around it.

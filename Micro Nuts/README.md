@@ -1,9 +1,9 @@
 # Micro Nuts
 
-## CAD model source: Innerscene
+Micro nuts fasten threaded parts in compact assemblies. They are commonly used with small screws in electronics, instruments, hobby mechanisms, and miniature equipment.
 
-- **Dataset page:** [Nuts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=nuts)
-- **Models:** Metric and UNC nut models, with individual browser previews and downloads. The listing does not confirm that every model is micro-sized.
-- **Format:** The library offers STEP and other 3D formats.
-- **Licence:** The library describes the files as public domain. Check the individual model page and attribution details before redistributing.
-- **ZIP in this repository:** None; no model files have been downloaded or added.
+## CAD model source
+
+- **Source:** [Innerscene — nuts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=nuts)
+- The library lists metric and UNC nut models. Check each model’s dimensions and licence before using or redistributing it.
+- No CAD models are included in this repository.

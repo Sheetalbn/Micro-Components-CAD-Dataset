@@ -1,10 +1,20 @@
 # Micro Screws
 
-A micro screw is a small threaded fastener used to clamp miniature parts in instruments, electronics, and precision assemblies.
+## Object detection dataset: CPDD-YOLOv8-2
 
-## Models included
+- Source: [Roboflow Universe](https://universe.roboflow.com/nhannobi/cpdd-yolov8-2-y6keg)
+- Download/export: [Version 3 download page](https://universe.roboflow.com/nhannobi/cpdd-yolov8-2-y6keg/dataset/3/download)
+- Licence: CC BY 4.0, as listed by the source.
+- Classes: screw, nut, bolt, washer. Version 3 lists 253 images.
+- ZIP in this repository: None; no archive was downloaded or added (0 bytes).
+- Reason: The export uses Roboflow’s account/API-key download flow. No export was obtained and inspected here.
 
-No STEP models are included. A screw model is withheld until its redistribution licence can be verified.
+## Other source: Industrial Objects Dataset
 
-There are currently no CAD files in this category. No catalogue pages or external download links are presented as CAD assets. Add only original models or files whose licence explicitly permits redistribution, with attribution and licence terms documented alongside each file.
+- Source/download: [GitHub repository](https://github.com/AlVillaG/industrial_objects_dataset)
+- Licence: No reuse licence was found in the repository. Its description says some images were downloaded from the internet.
+- Relevant classes: screw, drill screw, bolt.
+- ZIP in this repository: None; no archive was downloaded or added (0 bytes).
+- Reason: Redistribution rights for the images are unverified.
 
+These are object-detection images and labels, not CAD models. No STEP/STL files are included.

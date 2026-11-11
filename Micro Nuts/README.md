@@ -1,9 +1,11 @@
 # Micro Nuts
 
-Micro nuts fasten threaded parts in compact assemblies. They are commonly used with small screws in electronics, instruments, hobby mechanisms, and miniature equipment.
+## Dataset
 
-## CAD model source
+- **Source:** [Innerscene nuts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=nuts)
+- **Models listed:** 45
+- Models can be opened and downloaded one at a time. Check a model’s page for its size and available file types.
 
-- **Source:** [Innerscene — nuts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=nuts)
-- The library lists metric and UNC nut models. Check each model’s dimensions and licence before using or redistributing it.
-- No CAD models are included in this repository.
+## Where they are used
+
+Small nuts screw onto threaded screws or rods to hold parts together. They are used in circuit-board boxes, sensors, small motors, cameras, instruments, and other small machines. They are often paired with a screw of the same thread size.

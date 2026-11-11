@@ -1,9 +1,11 @@
 # Micro Screws
 
-Micro screws fasten small parts where space or weight is limited. They are used in electronics, instruments, small mechanisms, model making, and compact assemblies.
+## Dataset
 
-## CAD model source
+- **Source:** [Innerscene screws and bolts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=screws-bolts)
+- **Models listed:** 65
+- Models can be opened and downloaded one at a time. Check a model’s page for its size and available file types.
 
-- **Source:** [Innerscene — screws and bolts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=screws-bolts)
-- The library lists metric and UNC models, including examples such as M2 and M2.5. Check each model’s dimensions and licence before using or redistributing it.
-- No CAD models are included in this repository.
+## Where they are used
+
+Small screws hold parts together when there is little room for a larger screw. They are used in circuit-board boxes, sensors, small motors, watches, cameras, and other instruments. They can also fasten parts in small machines and models.

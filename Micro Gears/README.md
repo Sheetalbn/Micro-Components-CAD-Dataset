@@ -1,10 +1,11 @@
 # Micro Gears
 
-Micro gears transmit motion and torque between small shafts or mechanisms.
+## Dataset
 
-## Models included
+- **Source:** [Innerscene gears and gearboxes](https://www.innerscene.com/tools/library/3d-parts/tag/mechanical)
+- **Models listed:** 37 gears and gearboxes
+- Models can be opened and downloaded one at a time. Check a model’s page for its size and available file types.
 
-No STEP models are included. Gear models are withheld until redistribution rights can be verified.
+## Where they are used
 
-There are currently no CAD files in this category. No catalogue pages or external download links are presented as CAD assets. Add only original models or files whose licence explicitly permits redistribution, with attribution and licence terms documented alongside each file.
-
+Gears pass turning motion from one part to another. Small gears are used in clocks, instruments, small motors, robots, and model machines. Gears that connect must have teeth and sizes that fit together.

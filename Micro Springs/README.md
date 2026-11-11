@@ -1,10 +1,11 @@
 # Micro Springs
 
-Micro springs store and release force or maintain contact in compact mechanisms.
+## Dataset
 
-## Models included
+- **Source:** [Innerscene springs](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=springs)
+- **Models listed:** 5
+- Models can be opened and downloaded one at a time. Check a model’s page for its size and available file types.
 
-No STEP models are included. Spring models are withheld until redistribution rights can be verified.
+## Where they are used
 
-There are currently no CAD files in this category. No catalogue pages or external download links are presented as CAD assets. Add only original models or files whose licence explicitly permits redistribution, with attribution and licence terms documented alongside each file.
-
+Small springs push or pull parts and help them return to a set position. They are used in buttons, switches, battery contacts, pens, small tools, and instruments. The right spring depends on how much force and movement the part needs.

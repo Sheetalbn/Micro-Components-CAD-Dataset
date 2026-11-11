@@ -1,10 +1,9 @@
 # Micro Nuts
 
-A micro nut is an internally threaded fastener used with a matching screw where a removable joint is needed.
+## CAD model source: Innerscene
 
-## Models included
-
-No STEP models are included. A nut model is withheld until its redistribution licence can be verified.
-
-There are currently no CAD files in this category. No catalogue pages or external download links are presented as CAD assets. Add only original models or files whose licence explicitly permits redistribution, with attribution and licence terms documented alongside each file.
-
+- **Dataset page:** [Nuts](https://www.innerscene.com/tools/library/3d-parts?tag=hardware&type=nuts)
+- **Models:** Metric and UNC nut models, with individual browser previews and downloads. The listing does not confirm that every model is micro-sized.
+- **Format:** The library offers STEP and other 3D formats.
+- **Licence:** The library describes the files as public domain. Check the individual model page and attribution details before redistributing.
+- **ZIP in this repository:** None; no model files have been downloaded or added.
